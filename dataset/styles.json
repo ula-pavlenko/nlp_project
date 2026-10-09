@@ -1,0 +1,92 @@
+{
+    "lewis": {
+        "style": {
+            "avg_word_length": 4.095,
+            "avg_sentence_length": 16.398,
+            "std_sentence_length": 11.644,
+            "type_token_ratio": 0.496,
+            "rare_word_ratio": 0.005,
+            "stopword_ratio": 0.498,
+            "hapax_ratio": 0.681,
+            "punctuation_density": 0.037,
+            "comma_per_sentence": 0.979,
+            "exclamation_density": 4.538,
+            "question_density": 6.405,
+            "dialogue_ratio": 0.52,
+            "uppercase_ratio": 0.028,
+            "digit_ratio": 0.0
+        }
+    },
+    "martin": {
+        "style": {
+            "avg_word_length": 4.228,
+            "avg_sentence_length": 12.927,
+            "std_sentence_length": 8.39,
+            "type_token_ratio": 0.534,
+            "rare_word_ratio": 0.007,
+            "stopword_ratio": 0.455,
+            "hapax_ratio": 0.727,
+            "punctuation_density": 0.035,
+            "comma_per_sentence": 0.845,
+            "exclamation_density": 1.598,
+            "question_density": 6.984,
+            "dialogue_ratio": 0.225,
+            "uppercase_ratio": 0.03,
+            "digit_ratio": 0.0
+        }
+    },
+    "pratchett": {
+        "style": {
+            "avg_word_length": 4.382,
+            "avg_sentence_length": 18.231,
+            "std_sentence_length": 12.547,
+            "type_token_ratio": 0.523,
+            "rare_word_ratio": 0.017,
+            "stopword_ratio": 0.464,
+            "hapax_ratio": 0.712,
+            "punctuation_density": 0.031,
+            "comma_per_sentence": 1.376,
+            "exclamation_density": 2.511,
+            "question_density": 7.056,
+            "dialogue_ratio": 0.189,
+            "uppercase_ratio": 0.026,
+            "digit_ratio": 0.001
+        }
+    },
+    "rowling": {
+        "style": {
+            "avg_word_length": 4.509,
+            "avg_sentence_length": 16.35,
+            "std_sentence_length": 11.955,
+            "type_token_ratio": 0.543,
+            "rare_word_ratio": 0.016,
+            "stopword_ratio": 0.362,
+            "hapax_ratio": 0.724,
+            "punctuation_density": 0.036,
+            "comma_per_sentence": 1.378,
+            "exclamation_density": 7.334,
+            "question_density": 9.91,
+            "dialogue_ratio": 0.194,
+            "uppercase_ratio": 0.031,
+            "digit_ratio": 0.0
+        }
+    },
+    "tolkien": {
+        "style": {
+            "avg_word_length": 4.067,
+            "avg_sentence_length": 15.455,
+            "std_sentence_length": 10.605,
+            "type_token_ratio": 0.496,
+            "rare_word_ratio": 0.004,
+            "stopword_ratio": 0.499,
+            "hapax_ratio": 0.691,
+            "punctuation_density": 0.033,
+            "comma_per_sentence": 1.007,
+            "exclamation_density": 8.179,
+            "question_density": 4.584,
+            "dialogue_ratio": 0.163,
+            "uppercase_ratio": 0.026,
+            "digit_ratio": 0.003
+        }
+    }
+}

@@ -73,19 +73,3 @@ def define_author(text: str = Query(...,
         'style_features': style_features ,
         'top_scores': all_scores[1:]
     }
-
-
-
-
-# import regex
-
-# text = "Hello, Мир! 2026. ¡Hola! В тексте есть numbers 123."
-
-# # \p{L} — это любая буква Unicode.
-# # (?! [a-zA-Z]) — проверка, что эта буква НЕ является латинской.
-# pattern = r'(?![a-zA-Z])\p{L}'
-
-# result = regex.findall(pattern, text)
-
-# print(result)
-# # Выведет только буквы: ['М', 'и', 'р', 'В', 'т', 'е', 'к', 'с', 'т', 'е', 'е', 'с', 'т', 'ь']
